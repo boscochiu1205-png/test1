@@ -2,7 +2,7 @@
 # Traffic SIM
 > A fast-paced 2D traffic survival game made with **Microsoft MakeCode Arcade (Python mode)**.  
 > Dodge traffic, collect stars, and survive as long as possible!  
-> 🎮 [Play it live here](https://arcade.makecode.com/) *(upload your .mkcd project link here once published)*
+> 🎮 [Play it live here](https://arcade.makecode.com/S32807-12175-78104-56154) 
 
 ---
 

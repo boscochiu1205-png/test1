@@ -78,7 +78,7 @@ Survive as long as possible, keep your HP above 0,collect stars and try to beat 
 
 ## Project Status
 Project is: _complete_ ✅ (with room for polish).  
-Future updates may add improved visuals, sound effects, and new difficulty levels.
+Future updates may add improved visuals, sound effects, and refined difficulty levels.
 
 ---
 

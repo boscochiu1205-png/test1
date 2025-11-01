@@ -51,7 +51,9 @@
 
 ## Screenshots
 *(Add yours here once captured)*
-![Gameplay Screenshot](./img/traffic-sim-gameplay.png)
+![Gameplay Screenshot](<img width="854" height="637" alt="image" src="https://github.com/user-attachments/assets/5262a2c5-4288-4212-8f35-baeb500ae456" />
+
+)
 
 ---
 

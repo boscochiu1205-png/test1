@@ -22,9 +22,9 @@
 
 ## General Information
 - **Traffic SIM** is a reflex-based arcade game where the player must **dodge oncoming cars and collect stars** to survive.
-- The goal is simple: **stay alive as long as possible** while keeping your health bar from reaching zero.  
+- The goal is simple: **Collect STARS** while keeping your health bar from reaching zero.  
 - Each collected star adds to your score and restores a small amount of health.
-- The project was created for a **MakeCode Arcade coding project**, to learn about sprite management, events, and collisions.
+- The project was created for a **MakeCode Arcade coding project**, to learn about coding.
 - It demonstrates how randomness, sprite kinds, and event-driven programming can create engaging gameplay even with simple logic.
 
 ---
@@ -50,7 +50,6 @@
 ---
 
 ## Screenshots
-*(Add yours here once captured)*
 ![Gameplay Screenshot](<img width="854" height="637" alt="image" src="https://github.com/user-attachments/assets/5262a2c5-4288-4212-8f35-baeb500ae456" />
 
 )
@@ -58,13 +57,9 @@
 ---
 
 ## Setup
-1. Go to [MakeCode Arcade](https://arcade.makecode.com/).  
-2. Click **New Project → Python**.
-3. Copy and paste the `main.py` code from this repository.
-4. If using locally, ensure the following extensions are added:
-   - `statusbars` (for HP bar)
-   - `scroller` (for moving background)
-5. Click **Play** ▶️ to test.
+1.have a working computer
+2. open the link https://arcade.makecode.com/S32807-12175-78104-56154
+3. Enjoy
 
 ---
 
@@ -77,7 +72,7 @@
   - Press **→** to drive faster (background scroll −100 x)
 
 **Gameplay Objective:**  
-Survive as long as possible, keep your HP above 0, and try to beat your high score!
+Survive as long as possible, keep your HP above 0,collect stars and try to beat your high score!
 
 ---
 
@@ -90,12 +85,10 @@ Future updates may add improved visuals, sound effects, and new difficulty level
 ## Room for Improvement
 **Possible Enhancements:**
 - Add background music and sound effects.
-- Introduce traffic lanes or random direction cars.
 - Implement a leaderboard (store high scores).
 - Add new obstacle types after higher scores.
 
 **To Do:**
-- [ ] Add “hard mode” cars at score ≥ 10  
 - [ ] Include visual effects when player speeds up  
 - [ ] Create menu + restart screen  
 
@@ -103,8 +96,9 @@ Future updates may add improved visuals, sound effects, and new difficulty level
 
 ## Acknowledgements
 - Inspired by classic endless runner and dodging games.  
+- Inspired by classic Traffic swimming and No HESI.  
 - Built using **Microsoft MakeCode Arcade**’s Python engine.  
-- Special thanks to the MakeCode community tutorials on sprite collisions and scrolling backgrounds.
+- Special thanks to the MakeCode tutorials on status bar and scrolling backgrounds.
 
 ---
 

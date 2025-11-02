@@ -88,10 +88,6 @@ Future updates may add improved visuals, sound effects, and refined difficulty l
 - Implement a leaderboard (store high scores).
 - Add new obstacle types after higher scores.
 
-**To Do:**
-- [ ] Include visual effects when player speeds up  
-- [ ] Create menu + restart screen  
-
 ---
 
 ## Acknowledgements
@@ -103,7 +99,7 @@ Future updates may add improved visuals, sound effects, and refined difficulty l
 ---
 
 ## Contact
-Created by **[Yan Cheuk Chiu]  
+Created by [Yan Cheuk Chiu]  
 ---
 
 <!--

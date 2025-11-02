@@ -45,7 +45,7 @@
 - **Health bar** with game-over state
 - **Camera shake** feedback when hit
 - **Intro sequence and countdown** before gameplay starts
-- **Dynamic difficulty** – faster cars appear as score increases
+- **Dynamic difficulty** – more cars appear as score increases
 
 ---
 

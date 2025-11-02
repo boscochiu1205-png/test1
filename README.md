@@ -92,7 +92,7 @@ Future updates may add improved visuals, sound effects, and refined difficulty l
 
 ## Acknowledgements
 - Inspired by classic endless runner and dodging games.  
-- Inspired by classic Traffic swimming and No HESI.  
+- Inspired by The Modding Community No HESI. https://nohesi.gg/ 
 - Built using **Microsoft MakeCode Arcade**’s Python engine.  
 - Special thanks to the MakeCode tutorials on status bar and scrolling backgrounds.
 

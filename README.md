@@ -1,4 +1,4 @@
-#  TUT 6 Yan Cheuk Chiu
+#  TUT 4 Yan Cheuk Chiu
 # Traffic SIM
 > A fast-paced 2D traffic survival game made with **Microsoft MakeCode Arcade (Python mode)**.  
 > Dodge traffic, collect stars, and survive as long as possible!  
